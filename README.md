@@ -1,10 +1,10 @@
 # Calculadora console - CP1
 
 ## Integrantes
-- Ana Clara Melo
-- David Murilo de Oliverira Soares
-- Lucas Serrano 
-- Yasmin Gonçalves Coelho
+- Ana Clara Melo (559021)
+- David Murilo de Oliverira Soares (559078)
+- Lucas Serrano (555170)
+- Yasmin Gonçalves Coelho (559147)
 
 ## Descrição
 Aplicação console em C# que realiza operações matemáticas básicas:
